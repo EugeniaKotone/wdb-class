@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/EugeniaKotone/wdb-class/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="utf-8">
+    <title>Alexandra X.Lyu Portfolio</title>
+    <link rel="stylesheet" href="css/reset.css" media="all">
+    <link rel="stylesheet" href="css/styles.css" media="all">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <header>
+        <h1>     </h1>
+        <nav>
+            <ul>
+                <li><a class="nav-links" href="about.html">ABOUT</a></li>
+                <li><a class="nav-links" href="product%20design.html">PRODUCT DESIGN</a></li>
+                <li><a class="nav-links" href="communication.html">COMMUNICATION</a></li>
+                <li><a class="nav-links" href="photography.html">PHOTOGRAPHY</a></li>
+                <li><a class="nav-links" href="contact.html">CONTACT</a></li>
+            </ul>
+        </nav>
+    </header>
+    <article>
+        <section>
+            <h2>PRODUCTS GALLERY</h2>
+            <img class="reference-image" src="Port.jpg" alt="Portfolio page"/>
+            <figure></figure>
+        </section>
+        <section>
+            <h2>COMMUNICATION GALLERY</h2>
+            <p></p>
+            <figure></figure>
+        </section>
+        <section>
+            <h2>PHOTOGRAPHY GALLERY</h2>
+            <p></p>
+            <figure></figure>
+        </section>
+      
+    </article>
+    <footer>
+        <p><small>&copy; You 2018</small></p>
+    </footer>
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EugeniaKotone/wdb-class/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
